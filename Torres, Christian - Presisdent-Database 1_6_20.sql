@@ -31,7 +31,7 @@ DESCRIBE USPresidents;
 INSERT INTO USPresidents(fName, lName, Party, Nickname, Born, Died, termsServed, Decade, prevPosition, Accomplishments, warsDuringOffice)
 VALUES
 ("George", "Washington", "Unaffiliated", "The Father of His Country", "1732", "1799", "2", "1790", "Constitutional Convention Member", "", "The Revolutionary War"),
-("John", "Adams", "Federalist", "The Colossus of Independence", "1735", "1826", "1", "1790", "Vice President", "", "None"),
+("John", "Adams", "Federalist", "The Colossus of Independence", "1735", "1826", "1", "1790", "Vice President", "", "Quasi War"),
 ("Thomas", "Jefferson", "Democratic-Republican", "The Apostle of Democracy", "1743", "1826", "2", "1800", "Vice President", "", "None"),
 ("James", "Madison", "Democratic-Republican", "Father of the Constitution", "1751", "1836", "2", "1810", "Secretary of State", "", "The War of 1812"),
 ("James", "Monroe", "Democratic-Republican", "The Last Cocked Hat", "1758", "1831", "2", "1820", "Secretary of State", "", "None"),
